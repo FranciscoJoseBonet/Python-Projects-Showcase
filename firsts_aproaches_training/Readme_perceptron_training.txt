@@ -1,4 +1,4 @@
-This is the first training of one Percetron that i've done, i hope it result useful, here you can see all the adjustment it takes (only with 2 epochs) 
+This is the first training of one Percetron i've done, i hope it result useful, here you can see all the adjustment it takes (only with 2 epochs) 
 
 ============================================================
                  Perceptron Training Overview
