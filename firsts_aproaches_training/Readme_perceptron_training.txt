@@ -1,4 +1,8 @@
 This is the first training of one Percetron i've done, i hope it result useful, here you can see all the adjustment it takes (only with 2 epochs) 
+It's the classic binary training about the Iris dataset. It is a well-known dataset in the field of machine learning and statistics,
+introduced by the British biologist and statistician Ronald A. Fisher in 1936.
+The dataset contains measurements of iris flowers from three different species: Iris setosa, Iris versicolor, and Iris virginica.
+The dataset includes features such as sepal length, sepal width, petal length, and petal width.
 
 ============================================================
                  Perceptron Training Overview
