@@ -1,0 +1,18 @@
+============================================================
+                   Socket Library Overview
+============================================================
+
+The `socket` library in Python provides low-level networking
+interfaces. It allows you to create and manage network
+connections using protocols such as TCP (Transmission Control
+Protocol) and UDP (User Datagram Protocol). This library is
+essential for network programming and enables communication
+between computers over a network.
+
+### Key Features:
+- **Create Sockets**: Establish network connections using 
+  `socket.socket()`.
+- **Bind and Listen**: Bind to addresses and listen for connections.
+- **Connect and Send/Receive Data**: Communicate with other 
+  machines using `connect()`, `send()`, and `recv()`.
+- **Close Connections**: Release resources with `close()`.
